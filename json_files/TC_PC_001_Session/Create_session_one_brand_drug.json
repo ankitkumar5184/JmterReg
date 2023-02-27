@@ -1,0 +1,12 @@
+[
+    {
+        "Dosages": [
+            {
+                "NDC": "68180096301",
+                "DrugName": "Disprin",
+                "MetricQuantity": 17,
+                "DaysOfSupply": 30
+            }
+        ]
+    }
+]

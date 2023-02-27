@@ -1,0 +1,30 @@
+{
+    "CustomInternal": {
+        "StoringData": {
+            "PartAEffectiveDate": "01/01/2022",
+            "PartBEffectiveDate": "01/01/2022"
+        }
+    },
+    "Enrollee": {
+        "Address1": "1234 Main Street",
+        "Address2": "#2B",
+        "DateOfBirth": "03-14-1940",
+        "City": "Los Angeles",
+        "CountyFIPS": "06037",
+        "EffectiveDate": "04-01-2022",
+        "Email": "bsmith@test.com",
+        "FirstName": "ben",
+        "Gender": "M",
+        "LastName": "smith",
+        "MiddleInitial": "M",
+        "PhoneNumber": "8174223434",
+        "State": "CA",
+        "Title": "",
+        "Zip": "90210"
+    },
+    "Enroller": {
+        "BrokerID": "1234567",
+        "PartnerID": "CNXR1",
+        "UserType": "BROKER"
+    }
+}
